@@ -1,4 +1,9 @@
 <?php
+
+/* App by David Lohmeyer
+*  vilepickle@gmail.com
+*/
+
 session_start();
 
 require_once __DIR__.'/../vendor/autoload.php';
