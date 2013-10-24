@@ -24,15 +24,15 @@ In the Services tab, flip the Google Analytics switch.
 
 In the API Access tab, click Create an OAuth2.0 Client ID.
 
-*Enter your name, upload a logo, and click Next
-*Select the Service account option and press Create client ID
-*Download your private key.  This only pops up if you've selected a Service account.
++ Enter your name, upload a logo, and click Next
++ Select the Service account option and press Create client ID
++ Download your private key.  This only pops up if you've selected a Service account.
 
 Now you're back on the API Access page. You'll see a section called Service account with a Client ID and Email address
 
-*Copy the email address (something like ####@developer.gserviceaccount.com)
-*Visit your [Google Analytics](https://www.google.com/analytics/web/#management/Accounts/) Admin and add this email as a user to your properties
-*This is a must; you'll get cryptic errors otherwise.
++ Copy the email address (something like ####@developer.gserviceaccount.com)
++ Visit your [Google Analytics](https://www.google.com/analytics/web/#management/Accounts/) Admin and add this email as a user to your properties
++ This is a must; you'll get cryptic errors otherwise.
 
 ###App Configuration
 
